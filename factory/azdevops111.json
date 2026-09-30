@@ -1,0 +1,15 @@
+{
+	"name": "azdevops111",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76b2600c-ecfb-4fa9-8ca5-543834d94a79",
+		"tenantId": "591a43a1-696e-4acc-bbe3-9c7ae1ec4530"
+	}
+}
